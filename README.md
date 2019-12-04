@@ -2,8 +2,8 @@
 
 XmlrpcBotScan is scanner tools for finding vulnerability xmlrpc botnet for DDOS Attack.
 
-Usage: php xmlrpcscan.php
+Usage: php scan.php
 
 Note:
-Paste ur list in list txt.
+Paste ur list in targets.txt.
 Check the result in output.txt
