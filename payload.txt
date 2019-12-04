@@ -1,0 +1,11 @@
+<methodCall>
+<methodName>pingback.ping</methodName>
+<params>
+<param>
+<value><string>http://173.243.56.36/</string></value>
+</param>
+<param>
+<value><string>https://withinsecurity.com/2015/10/is-there-really-a-cybersecurity-skills-gap/</string></value>
+</param>
+</params>
+</methodCall>
